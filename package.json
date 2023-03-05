@@ -1,5 +1,5 @@
 {
-  "name": "06-animations-ts",
+  "name": "three-ts-project",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,11 +8,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/three": "^0.139.0",
-    "typescript": "^4.5.4",
-    "vite": "^2.9.0"
+    "@types/three": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "lil-gui": "latest"
   },
   "dependencies": {
-    "three": "^0.139.2"
+    "three": "latest"
   }
 }
