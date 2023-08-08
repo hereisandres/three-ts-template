@@ -9,9 +9,9 @@
   },
   "devDependencies": {
     "@types/three": "latest",
+    "lil-gui": "latest",
     "typescript": "latest",
-    "vite": "latest",
-    "lil-gui": "latest"
+    "vite": "^4.4.9"
   },
   "dependencies": {
     "three": "latest"
